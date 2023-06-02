@@ -14,4 +14,13 @@ implementation 'com.intuit.ssp:ssp-android:1.0.6'</code></pre>
 implementation 'androidx.sqlite:sqlite:2.2.0'
 </code></pre>
 
+<h2>Uygulama Ekran Görüntüleri</h2>
+<p float="left">
+  <img src="https://github.com/orhanucr/NotesApp/blob/main/screenshot/Screenshot_1685703571.png" width="30%" />
+  <img src="https://github.com/orhanucr/NotesApp/blob/main/screenshot/Screenshot_1685703577.png" width="30%" />
+  <img src="https://github.com/orhanucr/NotesApp/blob/main/screenshot/Screenshot_1685703574.png" width="30%" />
+  
+</p>
+
+
 

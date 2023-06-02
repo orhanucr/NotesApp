@@ -1,4 +1,4 @@
-# NotesApp
+# Notes App
 <h2>SQLite Database ile Notlarım Uygulamsı </h2>
 <p>Bu projede, SQLite Database ile kullanıcının yeni not ekleyebileceği, eklediği notları düzenleyebileceği ve silebileceği bir yapı oluşturulmuştur. Notlar ListView içinde en son eklenen not en üste duracak şekilde anasayfa da gösterilmektedir. Kullanıcı notu oluştururken DatePicker ile tarih seçebilir. Notların arka planında gösterilen renkler bir diziden alınır ve anasayfa her güncellendiğinde değişir.</p>
  
